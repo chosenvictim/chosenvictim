@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Senior software engineer building distributed systems and AI platforms
+- 🌱 A seasoned software engineer building distributed systems and AI platforms
 - 📫 How to reach me: mailto.shekhar.k@gmail.com
 
