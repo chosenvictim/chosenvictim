@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/shekhar_singh"><img src="https://api.daily.dev/devcards/67660694e0284e648f4e624254733697.png?r=ywj" width="400" alt="Shekhar Singh's Dev Card"/></a>
 - 🌱 Senior software engineer building distributed systems and AI platforms
 - 📫 How to reach me: mailto.shekhar.k@gmail.com
 
